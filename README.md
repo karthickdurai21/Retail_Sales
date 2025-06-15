@@ -142,17 +142,19 @@ This project showcases the end-to-end analytics pipeline from raw data cleaning 
 * Real-time business insights delivery
 
 ---
-![Landing_Page](https://github.com/user-attachments/assets/bb24f507-f130-4474-9f99-b6c7e408c56f)
+![Landing_Page](https://github.com/user-attachments/assets/bed3f362-ead7-4405-893a-8a41cc490b7c)
 
 
-![Sales_Performance](https://github.com/user-attachments/assets/0c44c5c8-9238-4d86-b039-305870966c5e)
+![Sales_Performance](https://github.com/user-attachments/assets/961012a2-cf08-4b9d-a0d2-45280b58f22d)
 
 
-![Products_Performance](https://github.com/user-attachments/assets/edb979f5-9e50-4e6b-9465-f7bc3ad51d08)
+![Products_Performance](https://github.com/user-attachments/assets/a5decd6f-a5c0-460d-a69c-7c562afb076c)
 
 
-![Customer_Perfomance](https://github.com/user-attachments/assets/b237ac8b-c529-4a42-86da-90877881ab4a)
+![Customer_Perfomance](https://github.com/user-attachments/assets/fe2fcd9d-383a-4d84-af62-938b15fd8f12)
 
 
-![Salesperson_Performance](https://github.com/user-attachments/assets/01486bee-4d51-4095-8420-5c70fbeaa5f6)
+![Salesperson_Performance](https://github.com/user-attachments/assets/7913b3df-de25-4bcc-a27a-6e14fc80d058)
+
+
 
